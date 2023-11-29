@@ -5,7 +5,7 @@ After completing `a6_part2.py` answer the following questions
 ## Questions to answer
 
 1. What makes this model more effective than the model you created in the previous lesson?
-
+This model 
 
 2. What does the R squared coefficient tell you about the model?
 
